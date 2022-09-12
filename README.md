@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
- 
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ehddn5252.github.io/)](https://ehddn5252.github.io/)
 this is my Gmail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddn5252@gmail.com)](mailto:ehddn5252@gmail.com)
 
 -->
 
@@ -28,7 +25,7 @@ this is my Gmail
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
 ### Hi there 👋
-- 🌱 I’m currently learning Hadoop and Apach Spark
+- 🌱 I’m currently learning Hadoop Eco System and Apach Spark
 - 🍈 I'm interested in backend and data engineering
 - 🌻 If you want to know more, see this [portfolio](https://www.notion.so/woodong2/299efb024ead44b7bae81dadc6aee8f0)
 
@@ -54,7 +51,6 @@ this is my Gmail
 ![ec2] ![docker]  ![jenkins]  ![openSSL]  ![nginx]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
 
 [c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c++&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
