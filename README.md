@@ -30,7 +30,6 @@ this is my Gmail
 ### Hi there 👋
 - 🌱 I’m currently learning Hadoop and Apach Spark
 - 🍈 I'm interested in backend and data engineering
-- 
 - 🌻 If you want to know more, see this [portfolio](https://www.notion.so/woodong2/299efb024ead44b7bae81dadc6aee8f0)
 
 # Skills
