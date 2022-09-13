@@ -36,7 +36,7 @@ this is my Gmail
 
 📕 Web back-end :  
 
-![spring-boot], ![FastAPI]) ![django]
+![spring-boot], ![FastAPI] ![django]
 
 📕 ORM : 
 
@@ -53,15 +53,15 @@ this is my Gmail
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
 
-[c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c++&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
-[c]: https://img.shields.io/static/v1?style=flat-square&label=&message=JIRA&color=336791&labelColor=e0e0e0&logoColor=A8B9CC&logo=Jira
+[c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c%2B%2B&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
+[c]: https://img.shields.io/static/v1?style=flat-square&label=&message=C&color=336791&labelColor=e0e0e0&logoColor=A8B9CC&logo=C
 [jira]: https://img.shields.io/static/v1?style=flat-square&label=&message=JIRA&color=336791&labelColor=e0e0e0&logoColor=009639&logo=Jira
 [jpa]: https://img.shields.io/static/v1?style=flat-square&label=&message=JPA&color=009639&labelColor=e0e0e0
 [mybatis]: https://img.shields.io/static/v1?style=flat-square&label=&message=MyBatis&color=4fc08d&labelColor=e0e0e0
 [nginx]: https://img.shields.io/static/v1?style=flat-square&label=&message=nginX&color=009639&labelColor=e0e0e0&logoColor=009639&logo=NGINX
 [openSSL]: https://img.shields.io/static/v1?style=flat-square&label=&message=openSSL&color=721412&labelColor=e0e0e0&logoColor=721412&logo=openSSL
 [mongodb]: https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=47a248&labelColor=e0e0e0&logoColor=47a248&logo=mongodb
-[ec2]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=232f3e&labelColor=e0e0e0&logoColor=#FF9900&logo=amazon-ec2
+[ec2]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS-EC2&color=232f3e&labelColor=e0e0e0&logoColor=FF9900&logo=Amazon-EC2
 [aws]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=232f3e&labelColor=e0e0e0&logoColor=232f3e&logo=amazon-aws
 [django]: https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=092e20&labelColor=e0e0e0&logoColor=092e20&logo=django
 [FastAPI]: https://img.shields.io/static/v1?style=flat-square&label=&message=FastAPI&color=20B2AA&labelColor=e0e0e0&logoColor=20B2AA&logo=FastAPI
