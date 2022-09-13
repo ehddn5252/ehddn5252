@@ -36,11 +36,11 @@ this is my Gmail
 
 📕 Web back-end :  
 
-![spring-boot], ![FastAPI] ![django]
+![spring-boot] ![FastAPI] ![django]
 
 📕 ORM : 
 
-![mybatis] , ![jpa] 
+![mybatis] ![jpa] 
 
 📕 DB : 
 
