@@ -34,13 +34,9 @@ this is my Gmail
 
 ![python] ![JAVA] ![c] ![c++]
 
-📕 Web back-end :  
+📕 Web :  
 
 ![spring-boot] ![FastAPI] ![django]
-
-📕 ORM : 
-
-![mybatis] ![jpa] 
 
 📕 DB : 
 
@@ -49,6 +45,10 @@ this is my Gmail
 📕 CI & CD : 
 
 ![ec2] ![docker]  ![jenkins]  ![openSSL]  ![nginx]
+
+📕 ETC : 
+
+![mybatis] ![jpa] ![jira]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
