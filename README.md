@@ -53,6 +53,10 @@ this is my Gmail
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
 
+
+​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252)
+
+
 [c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c%2B%2B&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
 [c]: https://img.shields.io/static/v1?style=flat-square&label=&message=C&color=336791&labelColor=e0e0e0&logoColor=A8B9CC&logo=C
 [jira]: https://img.shields.io/static/v1?style=flat-square&label=&message=JIRA&color=336791&labelColor=e0e0e0&logoColor=009639&logo=Jira
