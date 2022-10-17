@@ -25,8 +25,8 @@ this is my Gmail
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
 ### Hi there 👋
-- 🌱 I’m currently learning data analysis and Java JPA
-- 🍈 I'm interested in backend and data engineering
+- 🌱 I’m currently learning data process and Kubernetes
+- 🍈 I'm interested in backend, CI/CD and data process
 - 🌻 If you want to know more about me, see this [portfolio](https://www.notion.so/woodong2/299efb024ead44b7bae81dadc6aee8f0)
 
 # Skills
