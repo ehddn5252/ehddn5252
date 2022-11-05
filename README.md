@@ -27,7 +27,6 @@ this is my Gmail
 ### Hi there 👋
 - 🌱 I’m currently learning data process and Kubernetes
 - 🍈 I'm interested in backend, CI/CD and data process
-- 🌻 If you want to know more about me, see this [portfolio](https://www.notion.so/woodong2/299efb024ead44b7bae81dadc6aee8f0)
 
 # Skills
 📕 Language : 
