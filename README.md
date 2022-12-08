@@ -25,8 +25,8 @@ this is my Gmail
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
 ### Hi there 👋
-- 🌱 I’m currently learning data process and Kubernetes
-- 🍈 I'm interested in backend, CI/CD and data process
+- 🌱 I’m currently learning Database Optimizer and Data process 
+- 🍈 I'm interested in backend, Database Process, CI/CD and data process
 
 # Skills
 📕 Language : 
