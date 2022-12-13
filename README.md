@@ -27,6 +27,8 @@ this is my Gmail
 ### Hi there 👋
 - 🌱 I’m currently learning Database Optimizer and Data process 
 - 🍈 I'm interested in backend, Database Process, CI/CD and data process
+- 
+if you want to see my portfolio click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10216756/portfolio.pdf)
 
 # Skills
 📕 Language : 
