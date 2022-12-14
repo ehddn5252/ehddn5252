@@ -24,12 +24,22 @@ this is my Gmail
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
+
+
 ### Hi there 👋
+
+📫 if you want to see my portfolio? click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10216756/portfolio.pdf)
 - 🌱 I’m currently learning Database Optimizer and Data process 
 - 🍈 I'm interested in backend, Database Process, CI/CD and data process
-- if you want to see my portfolio click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10216756/portfolio.pdf)
 
-# Skills
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
+
+---
+
+### Skills
 📕 Language : 
 
 ![python] ![JAVA] ![c] ![c++]
@@ -50,12 +60,8 @@ this is my Gmail
 
 ![mybatis] ![jpa] ![jira]
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
-
 
 ​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252)
-
 
 [c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c%2B%2B&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
 [c]: https://img.shields.io/static/v1?style=flat-square&label=&message=C&color=336791&labelColor=e0e0e0&logoColor=A8B9CC&logo=C
