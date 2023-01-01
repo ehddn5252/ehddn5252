@@ -30,19 +30,19 @@ this is my Gmail
 
 📫 if you want to see my portfolio? click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10216756/portfolio.pdf)
 - 🌱 I’m currently learning Database Optimizer and Data process 
-- 🍈 I'm interested in backend, Database Process, CI/CD and data process
+- 🍈 I'm interested in Algorithm, Database Process, CI/CD and data process
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehddn5252&theme=cold)
 ---
 
 ### Skills
 📕 Language : 
 
-![python] ![JAVA] ![c] ![c++]
+![JAVA] ![python] ![c] ![c++]
 
 📕 Web :  
 
@@ -58,10 +58,11 @@ this is my Gmail
 
 📕 ETC : 
 
-![mybatis] ![jpa] ![jira]
+![jpa] ![mybatis] ![jira]
 
 
 ​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=c%2B%2B&color=336791&labelColor=e0e0e0&logoColor=00599C&logo=c%2B%2B
 [c]: https://img.shields.io/static/v1?style=flat-square&label=&message=C&color=336791&labelColor=e0e0e0&logoColor=A8B9CC&logo=C
