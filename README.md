@@ -32,11 +32,6 @@ this is my Gmail
 - 🌱 I’m currently learning Database Optimizer and Data process 
 - 🍈 I'm interested in Algorithm, Database Process, CI/CD and data process
 
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehddn5252&theme=cold)
 ---
 
 ### Skills
@@ -60,6 +55,10 @@ this is my Gmail
 
 ![jpa] ![mybatis] ![jira]
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehddn5252&theme=cold)
 
 ​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats) -->
