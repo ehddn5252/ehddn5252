@@ -34,8 +34,11 @@ this is my Gmail
 - 🍈 I'm interested in Algorithm, Database Process, CI/CD and data process
 
 ---
-
+<details>
+  <summary>🛠Skills </summary>
+ 
 ### Skills
+ 
 📕 Language : 
 
 ![JAVA] ![python] ![c] ![c++]
@@ -56,12 +59,26 @@ this is my Gmail
 
 ![jpa] ![mybatis] ![jira]
 
+</details>
 
+<details>
+  <summary>📜Algorithm </summary>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehddn5252&theme=cold)
+</details>
+<details>
+  <summary>📈Github Statistics </summary>
+  <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ehddn5252&hide_border=true&count_private=true&show_icons=true&theme=merko&bg_color=282828&icon_color=F8D866">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehddn5252&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828&layout=compact">
 
-​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252)
+<!-- ​[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddn5252&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ehddn5252) -->
+
+  <br/>
+</details>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehddn5252&count_bg=%2321251D&title_bg=%23DB1414&icon=&icon_color=%23942222&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehddn5252)](https://github.com/anuraghazra/github-readme-stats) -->
