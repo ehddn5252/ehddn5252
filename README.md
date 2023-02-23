@@ -30,7 +30,7 @@ this is my Gmail
 
 
 
-📫 if you want to see my portfolio? click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10810213/Portfolio.pdf)
+📫 if you want to see my portfolio? click this [Portfolio.pdf](https://github.com/ehddn5252/ehddn5252/files/10810302/Portfolio.pdf)
 - 🌱 I’m currently learning Database Optimizer and Data process 
 - 🍈 I'm interested in Algorithm, Database Process, CI/CD and data process
 
