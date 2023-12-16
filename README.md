@@ -59,13 +59,14 @@ this is my Gmail
 ![jpa] ![mybatis] ![jira]
 
 </details>
-
+<!--
 <details>
   <summary>📜Algorithm </summary>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddn5252)](https://solved.ac/ehddn5252)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehddn5252&theme=cold)
 </details>
+-->
 <details>
   <summary>📈Github Statistics </summary>
   <br/>
